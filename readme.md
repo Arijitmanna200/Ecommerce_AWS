@@ -172,9 +172,17 @@ npm run build
 # 👨‍💻 Author
 
 **Arijit Manna**
-
-MCA Student | Full Stack Developer
-Passionate about **Cloud, Backend Development, and AI Projects**
-
 GitHub:
 https://github.com/Arijitmanna200
+
+**Shoban Sen**
+GitHub:
+https://github.com/Shobhansen
+
+**Samarpita Mukherjee**
+GitHub:
+https://github.com/Samarpita15082003
+
+**Santanu Halder**
+GitHub:
+https://github.com/Santanu-jpg
